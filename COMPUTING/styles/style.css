@@ -29,8 +29,9 @@ img{
     margin-right: 120px;
 }
 
-table{
-    
+table{ 
     background-color: rgb(255, 255, 255);
-
+    margin-left: auto;
+    margin-right: auto;
 }
+
